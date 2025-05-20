@@ -1,32 +1,32 @@
 const jogos = [
   {
     nome: "Forza Horizon 5",
-    img: "img/forza5.jpg",
+    img: "img/forza_5.jpg",
     desc: "Um dos melhores jogos de corrida já feitos!",
   },
   {
     nome: "Far Cry 3",
-    img: "img/far cry 3.jpeg",
+    img: "img/far_cry_3.jpeg",
     desc: "Com certeza o melhor da franquia e o melhor vilão!",
   },
   {
     nome: "Assassin's Creed Unity",
-    img: "img/ac unity.avif",
+    img: "img/ac_unity.avif",
     desc: "Apesar de todos os bugs, é muito divertido!",
   },
   {
     nome: "Devil May Cry 5",
-    img: "img/devil may cry 5.jpeg",
+    img: "img/devil_may_cry_5.jpeg",
     desc: "Meu segundo favorito Hack and Slash, buildando estilo como nunca!",
   },
   {
     nome: "Tom Clancy's Rainbow Six Siege",
-    img: "img/r6.avif",
+    img: "img/r_6.avif",
     desc: "Relação de amor e ódio desde 2017!",
   },
   {
     nome: "God Of War III",
-    img: "img/God-of-War-3.jpg",
+    img: "img/God_of_War_3.jpg",
     desc: "Um dos melhores jogos ja feitos na história, porradaria insana e cabeças voando pra todo lado!",
   },
   {
@@ -36,17 +36,17 @@ const jogos = [
   },
   {
     nome: "Ark Survival Ascended",
-    img: "img/ark ascended.jpeg",
+    img: "img/ark_ascended.jpeg",
     desc: "Sobreviver num mundo pós apocaliptico recheado de dinossauros é tenso, mas muito divertido!",
   },
   {
     nome: "Black Myth Wukong",
-    img: "img/black myth wukong.avif",
+    img: "img/black_myth_wukong.avif",
     desc: "Primeiro jogo que platinei na vida, nunca vou me esquecer das emoções que me trouxe!",
   },
   {
     nome: "The Witcher 3: Wild Hunt",
-    img: "img/the witcher 3.jpeg",
+    img: "img/the_witcher_3.jpeg",
     desc: "Melhor jogo de todos os tempos, densidade e qualidade realmente fora da curva!",
   },
 ];
